@@ -1,0 +1,20 @@
+{
+    "name": "aashrithasolutions",
+    "version": "1.0.0",
+    "description": "My first node js program",
+    "main": "helloworld.js",
+    "scripts": {
+      "start": "node helloworld.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sripathikiran/aashrithasolutions.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/sripathikiran/aashrithasolutions.git"
+    },
+    "homepage": "https://github.com/sripathikiran/aashrithasolutions.git#readme"
+  }
